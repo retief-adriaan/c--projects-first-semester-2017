@@ -1,0 +1,17 @@
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.exe.config
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.exe
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.pdb
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.frm_splash.resources
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.Properties.Resources.resources
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.csproj.GenerateResource.Cache
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.exe
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.pdb
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.frm_menu.resources
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.frm_calc.resources
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.frm_exchange.resources
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.frm_interest.resources
+C:\Users\retie\Desktop\Documents\Visual Studio Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.frm_browser.resources
+C:\Users\retie\Desktop\Documents\CTU\Formative Assessments\Formative Assessment 1 - Adriaan Retief\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.exe.config
+C:\Users\retie\Desktop\Documents\CTU\Formative Assessments\Formative Assessment 1 - Adriaan Retief\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.exe
+C:\Users\retie\Desktop\Documents\CTU\Formative Assessments\Formative Assessment 1 - Adriaan Retief\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.pdb
